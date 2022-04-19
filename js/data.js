@@ -3,7 +3,7 @@ const data = {
     "last_name": "Nemchinov",
     "job_title": "JS Developer",
     "photo": "images/photo.jpg",
-    "telegramm": "https://t-do.ru/Likeafrost",
+    "telegram": "https://t-do.ru/Likeafrost",
     "email": "anekratia@gmail.com",
     "GitHub": "https://github.com/L1keaFrost",
     "linkedin": "link_to_linkedin",
