@@ -18,7 +18,7 @@ document.querySelector('.experience-list').innerHTML = expirienceData;
  * contact data
  */
 
-document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.telegramm}"target='_blank'>Telegramm</a></li>`
+document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.telegram}"target='_blank'>Telegram</a></li>`
 document.querySelector('.contacts-block').innerHTML += `<li><a href="mailto:${data.email}">Почта</a></li>`
 document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.GitHub}"target='_blank'>GitHub</a></li>`
 // document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.linkedin}">${data.linkedin}</a></li>`
