@@ -5,7 +5,7 @@ const data = {
     "photo": "images/photo.jpg",
     "telegram": "https://t-do.ru/Likeafrost",
     "email": "anekratia@gmail.com",
-    "GitHub": "https://github.com/L1keaFrost",
+    "GitHub": "https://github.com/Lik3e",
     "linkedin": "link_to_linkedin",
     "address": "Russia, st.Petersburg",
     "skills": [
