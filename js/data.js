@@ -1,29 +1,14 @@
 const data = {
     "first_name": "Yuriy",
     "last_name": "Nemchinov",
-    "job_title": "JS Developer",
-    "photo": "images/photo.jpg",
-    "telegram": "https://t-do.ru/Likeafrost",
+    "job_title": "JS(TS) Developer",
+    "telegram": "https://t.me/Likeafrost",
     "email": "anekratia@gmail.com",
     "GitHub": "https://github.com/Lik3e",
+    "HeadHunter": "https://spb.hh.ru/resume/e7d380fbff0492617b0039ed1f49736b726f69",
     "linkedin": "link_to_linkedin",
     "address": "Russia, st.Petersburg",
-    "skills": [
-        "HTML5, CSS",
-        "API, AJAX",
-        "JS functions",
-        "Bootstrap, Adaptive layout",
-        "Promise, ES6",
-        "React JS",
-        "Redux",
-    ],
-    "education": [
-        ["2014-2019", "BITI MEPHI"],
-        ["2021-2022", "ItGid.info: HTML, CSS, JS, React JS"],
-    ],
-    "achievements": [
-        "Ответственен и инициативен, сохраняю спокойствие в экстренных ситуациях и оперативно нахожу пути разрешения проблемных вопросов",
-        "На данный момент продолжаю активно учиться и получаю знания по Vue JS и Node JS."
-    ],
-    "profile": "Знание технологий и работы с: HTML, CSS, Flex, Grid, Bootstrap, Gulp, HTML5, avaScript, Циклы, Массивы, DOM, Object, Touch, API, AJAX, Class, Object, Prototype, Super, Extends, Get Set, This, Call, Bind, JS Function, Arrow function, Callback function, This, Pure function, Recursion, Closure. Недавно закончил курс по React JS. На данный момент прохожу стажировку в LastBackend"
+    "profile": "Знание технологий: HTML5, CSS, SCSS, Bootstrap, Tailwind, JavaScript, Typescript, REST API, Websockets, React JS(TS). " +
+      "Последний год работаю с React ^18 + TS, react-redux ^8, react-router-dom ^6. " +
+      "Всегда открыт и готов к обучению нового."
 };
